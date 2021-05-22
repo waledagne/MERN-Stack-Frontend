@@ -1,0 +1,18 @@
+//Load EMPLOYEEs
+export const LOAD_EMPLOYEE= "LOAD_EMPLOYEE";
+export const FETCH_EMPLOYEE= "FETCH_EMPLOYEE";
+
+//create new EMPLOYEEs
+export const CREATE_EMPLOYEE= "CREATE_EMPLOYEE";
+export const CREATE_SUCCESS = "CREATE_SUCCESS";
+
+//Edit EMPLOYEEs
+export const EDIT_EMPLOYEE= "EDIT_EMPLOYEE";
+export const EDIT_SUCCESS = "EDIT_SUCCESS";
+
+//Remove EMPLOYEEs
+export const DELETE_EMPLOYEE= "DELETE_EMPLOYEE";
+export const DELETE_SUCCESS = "DELETE_SUCCESS";
+
+//Network Error
+export const NETWORK_ERROR = "NETWORK_ERROR";
